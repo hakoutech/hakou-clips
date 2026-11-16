@@ -1,0 +1,31 @@
+# Words that get bleeped in the audio and masked in the captions (F***) by `run.py edit`.
+# One pattern per line, lower case. * matches any letters:  fuck* = fuck, fucked, fucking
+#                                                           *fuck* = also motherfucker, clusterfuck
+# Add or remove lines to taste. Lines starting with # are ignored. Turn it all off with --no-bleep.
+*fuck*
+*shit*
+bitch*
+*asshole*
+cunt*
+dick
+dicks
+dickhead*
+cock
+cocks
+cocksucker*
+pussy
+pussies
+bastard*
+slut*
+whore*
+goddamn*
+wanker*
+twat*
+prick
+pricks
+nigga*
+nigger*
+faggot*
+retard
+retarded
+retards

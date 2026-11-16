@@ -1,0 +1,29 @@
+# your videos and results never get committed
+output/*
+!output/.gitkeep
+
+# environments / caches
+.venv/
+__pycache__/
+*.pyc
+remotion/node_modules/
+remotion/public/clip*.mp4
+remotion/out/
+.cache/
+.tools/
+
+# personal Claude Code settings (per machine)
+.claude/settings.local.json
+
+# secrets, cookies
+.env
+.env.*
+*.cookies
+cookies*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
