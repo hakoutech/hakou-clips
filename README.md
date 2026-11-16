@@ -1,4 +1,4 @@
-# Claude Clipping Tool ✂️
+# Hakou Clips ✂️
 
 **Paste any long video link, and Claude finds the best moments and turns them into vertical
 shorts** for YouTube Shorts, Instagram Reels and TikTok. It reframes each clip around the

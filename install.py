@@ -39,7 +39,7 @@ def hint(tool):
 def main():
     configure()
     ok = True
-    print('== Claude Clipping Tool setup ==')
+    print('== Hakou Clips setup ==')
 
     if sys.version_info < (3, 10):
         print(f'[X] Python 3.10+ needed (you have {sys.version.split()[0]}).')

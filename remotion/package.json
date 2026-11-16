@@ -1,5 +1,5 @@
 {
-  "name": "claude-clipping-tool-remotion",
+  "name": "hakou-clips-remotion",
   "version": "1.0.0",
   "private": true,
   "description": "Optional Remotion engine for the simple edit (same plan as the python engine).",

@@ -1,4 +1,4 @@
-# Claude Clipping Tool
+# Hakou Clips
 
 This repo turns long videos into vertical short-form clips. When the user pastes a video link or
 file, or asks for clips, shorts, reels or TikToks, **use the `clip-video` skill**

@@ -1,1 +1,1 @@
-"""Claude Clipping Tool: long video -> short-form clips."""
+"""Hakou Clips: long video -> short-form clips."""
